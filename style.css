@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+body, html {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-color: #222;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+.introDiv {
+	padding: 10px;
+	background-color: blue;
+}
+
+#specialText {
+	color: #ff0072;
+}
+
+.highlight {
+	background-color: #dadb0d;
+}
