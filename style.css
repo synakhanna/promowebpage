@@ -4,24 +4,16 @@
 
 body, html {
 	padding: 0px;
-	margin: 0px;
+	margin: 10px;
 }
 
 body {
 	background-color: #222;
-	color: #fff;
-	font-family: sans-serif;
+	color: #EBB146;
+	font-family: serif;
 }
 
-.introDiv {
-	padding: 10px;
-	background-color: blue;
-}
-
-#specialText {
-	color: #ff0072;
-}
-
-.highlight {
-	background-color: #dadb0d;
+p.five {
+	border-style: solid;
+	border-width: 5px 5px;
 }
